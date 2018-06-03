@@ -1,0 +1,14 @@
+{
+  "name": "02mysql",
+  "version": "1.0.0",
+  "description": "mysql資料庫連線",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "refan",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
